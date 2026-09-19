@@ -4,7 +4,9 @@ Welcome to the GitHub organization of the **WTUFengGroup**.
 
 Our research focuses on the development of **analytical methodologies for sample preparation, chromatographic separation, and mass spectrometry-based analysis**, together with **computational tools for metabolomics, submetabolomics, and bioanalytical data analysis**.
 
-🌐 **Group Website:** [Feng Research Group](https://www.x-mol.com/groups/feng_yuqi)
+<p align="center">
+  🌐 <a href="https://www.x-mol.com/groups/feng_yuqi"><strong>Official Group Website</strong></a>
+</p>
 
 ***
 

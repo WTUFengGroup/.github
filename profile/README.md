@@ -1,8 +1,8 @@
-# Yu-Qi Feng Research Group
+# WTUFengGroup
 
-Welcome to the GitHub organization of the **Yu-Qi Feng Research Group**.
+Welcome to the GitHub organization of the **WTUFengGroup**.
 
-Our research focuses on the development of analytical methodologies and computational tools for **mass spectrometry, metabolomics, lipidomics, and bioanalytical chemistry**.
+Our research focuses on the development of **analytical methodologies for sample preparation, chromatographic separation, and mass spectrometry-based analysis**, together with **computational tools for metabolomics, submetabolomics, and bioanalytical data analysis**.
 
 This page provides a unified entry point to software and computational tools developed in our published studies. Some software remains hosted in the original developers' GitHub repositories in order to preserve the repository URLs associated with the corresponding publications.
 
